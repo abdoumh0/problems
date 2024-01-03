@@ -1,1 +1,1 @@
-#just some algorithm problems' solutions
+# just some algorithm problems' solutions
